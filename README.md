@@ -1,6 +1,5 @@
 # How to use my scripts
 
-Hi Harry, first of all apologies for my messy code.
 
 Most of these scripts can just be run and as long as the file paths are correct they should create the right graphs/outputs.
 
